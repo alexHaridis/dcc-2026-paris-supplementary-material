@@ -10,3 +10,6 @@ See also:
 (1) The original publication of the JONES-19 dataset on [the ACM's database](https://dl.acm.org/doi/10.1145/3769526.3769634) and Harvard's open-access [DASH Repository](https://dash.harvard.edu/entities/publication/2e4a2f0a-79d0-42a6-94c5-c14cd586abca).
 
 (2) The JONES-19 image dataset hosted on [HuggingFace](https://huggingface.co/datasets/harvardseas-cultural-ornaments/JONES-19).
+
+LICENSE:
+This project is shared here under an MIT License.
